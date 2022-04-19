@@ -1,0 +1,38 @@
+.masterContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.topContainer {
+  /* background-color: red; */
+  padding: 10px;
+  width: fit-content;
+}
+
+.Container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.modalConatine {
+  display: flex;
+}
+
+.sideContainer {
+  margin: 10px;
+  width: 15rem;
+  text-align: center;
+  background-color: aqua;
+  /* height: fit-content; */
+}
+
+.containerHolderModal {
+  background-color: red;
+  height: 83%;
+}
+
+.modalDesign {
+  background: rgba(0, 0, 0, 0.2);
+}
